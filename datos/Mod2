@@ -1,0 +1,13 @@
+tipo:CORRIENTE:15000:150.0
+tipo:DIESEL:12000:150.0
+tipo:EXTRA:20000:100.0
+tipo:PLUS:17500:125.0
+surtidor:Julian:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+surtidor:Julian:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+surtidor:Felipe:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+surtidor:Daniel:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+empleado:Felipe:0
+empleado:Alejandro:0
+empleado:Daniel:0
+empleado:Miguel:0
+empleado:Julian:0
